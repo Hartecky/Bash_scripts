@@ -1,0 +1,29 @@
+#####		CNV 	#####
+---  ---  ---
+All CNVs: 
+404
+----	----  ----
+All deletions:  357
+----	----  ----
+All duplications:  46
+----	----  ----
+Deletions on 3rd chromosome: 73
+----	----	----
+Duplications on 3rd chromosome:  0
+----	----  ----
+Percentage value of duplications:  11.44
+----	----  ----
+Mean polymorphism length:  3247.01
+----	----	----
+Mean duplication length:  8223.91
+----	----  ----
+The longest duplication: 
+27200
+---- ---- ----
+The longest deletion
+69600
+----	----	----
+The shortest deletion
+500
+----	----	----
+Duplications which are in both organisms are in the same_dupl.txt file
