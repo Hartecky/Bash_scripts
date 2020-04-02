@@ -1,2 +1,2 @@
 # Bash_scripts
-Bash scripts for analyzing biological data (bioinformatics)
+Bash / awk scripts for biological data analysis at university (coding lab)
